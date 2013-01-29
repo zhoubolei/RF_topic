@@ -1,0 +1,1 @@
+topicNum=30, spatialRaidius=40, temporalRadius=1500, treeLevel=8, itrNum=800 
