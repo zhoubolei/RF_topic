@@ -1,4 +1,4 @@
-RF_topic
+Random Field Topic Model
 ========
 
 1, vc_RTM
